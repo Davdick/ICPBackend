@@ -1,0 +1,26 @@
+{
+  "canisters": {
+    "backthon_backend": {
+      "main": "src/backthon_backend/main.mo",
+      "type": "motoko"
+    },
+    "backthon_frontend": {
+      "dependencies": [
+        "backthon_backend"
+      ],
+      "source": [
+        "src/backthon_frontend/dist"
+      ],
+      "type": "assets",
+      "workspace": "backthon_frontend"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
