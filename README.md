@@ -18,7 +18,7 @@ With our AWS-trained AI model we can transcribe audio in real time, perform an a
 
 Our frontend is made in React.
 Below the link of the repository:
-https://github.com/ThankedDeer/MonitoAGS
+- https://github.com/ThankedDeer/MonitoAGS
 
 ## Authors
 
