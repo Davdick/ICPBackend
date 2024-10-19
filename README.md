@@ -27,6 +27,7 @@ https://github.com/ThankedDeer/MonitoAGS
 - [@sofia347](https://github.com/sofia347) - Sofia Miroslava
 - [@Davdick](https://github.com/Davdick) - David Figueroa
 - [@JorgeLuis603](https://github.com/JorgeLuis603) - Jorge Calvillo
+
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with `backthon`, see the following documentation available online:
