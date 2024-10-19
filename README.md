@@ -1,7 +1,32 @@
-# `backthon`
 
-Welcome to your new `backthon` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
+# MonitorAgs ICP
 
+This project optimizes the performance of obtaining information from 911, 809 (MEX) and citizen help lines.
+With our AWS-trained AI model we can transcribe audio in real time, perform an analysis of it and detect keywords, important sentences and a better understanding of context, In addition, the model classifies the individual’s mood, collects historical data to generate criminal or incident history and generates location points or routes based on data received during the call.
+
+
+## Features
+
+- Monitoring/patrol schedule generator
+- Criminal profile builder
+- Vocabulary training
+- Call Transcription
+- Developed on ICP Motoko
+
+
+## 🔗 Frontend
+
+Our frontend is made in React.
+Below the link of the repository:
+https://github.com/ThankedDeer/MonitoAGS
+
+## Authors
+
+- [@ThankedDeer](https://github.com/ThankedDeer) - Eduardo Salinas
+- [@Osvaldorg](https://github.com/Osvaldorg) - Osvaldo Ramos
+- [@sofia347](https://github.com/sofia347) - Sofia Miroslava
+- [@Davdick](https://github.com/Davdick) - David Figueroa
+- [@JorgeLuis603](https://github.com/JorgeLuis603) - Jorge Calvillo
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
 
 To learn more before you start working with `backthon`, see the following documentation available online:
