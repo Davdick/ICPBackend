@@ -20,6 +20,10 @@ Our frontend is made in React.
 Below the link of the repository:
 - https://github.com/ThankedDeer/MonitoAGS
 
+## 🔗 Presentation
+- [PITCH - FINAL (1).pdf](https://github.com/user-attachments/files/17498254/PITCH.-.FINAL.1.pdf)
+
+
 ## Authors
 
 - [@ThankedDeer](https://github.com/ThankedDeer) - Eduardo Salinas
